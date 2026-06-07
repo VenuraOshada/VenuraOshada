@@ -79,20 +79,6 @@ contact:    vodeegalla2001@gmail.com
 
 ---
 
-## `> ls ~/stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venura-deegalla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7F77DD&icon_color=1D9E75&text_color=AAAAAA&ring_color=7F77DD)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venura-deegalla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7F77DD&text_color=AAAAAA)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=venura-deegalla&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7F77DD&fire=1D9E75&currStreakLabel=7F77DD)
-
-</div>
-
----
-
 ## `> cat certifications.log`
 
 ```
