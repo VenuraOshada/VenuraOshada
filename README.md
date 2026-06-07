@@ -11,7 +11,7 @@ Full-Stack Developer | React • Node.js • React Native
 - 🎓 BSc Graduate in Software Engineering
 - 📍 Currently studying Applied ICT in the Netherlands
 - 💻 Passionate about Web Development, Mobile Applications, and Cloud Technologies
-- 🌱 Currently expanding my skills in **React Native** and **AWS Cloud**
+- 🌱 Currently expanding my skills in **AWS Cloud**
 - 🚀 Interested in Front-End Development, Full-Stack Development, and Software Engineering opportunities
 - 📫 Reach me at: **vodeegalla2001@gmail.com**
 
