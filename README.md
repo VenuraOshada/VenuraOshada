@@ -1,75 +1,126 @@
-<h1 align="center">Hi 👋, I'm Venura Oshada Deegalla</h1>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  VENURA OSHADA DEEGALLA · README.md            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">
-Full-Stack Developer | React • Node.js • React Native
-</h3>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ██╗   ██╗███████╗███╗   ██╗██╗   ██╗                     ║
+║    ██║   ██║██╔════╝████╗  ██║██║   ██║                     ║
+║    ██║   ██║█████╗  ██╔██╗ ██║██║   ██║                     ║
+║    ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║   ██║                     ║
+║     ╚████╔╝ ███████╗██║ ╚████║╚██████╔╝                     ║
+║      ╚═══╝  ╚══════╝╚═╝  ╚═══╝ ╚═════╝                      ║
+║                                                              ║
+║  [ FULL-STACK DEV ]  [ NL-NODE ]  [ STATUS: ONLINE ]        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+React+Native;Building+for+web%2C+mobile+%2B+cloud;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
-- 🎓 BSc Graduate in Software Engineering
-- 📍 Currently studying Applied ICT in the Netherlands
-- 💻 Passionate about Web Development, Mobile Applications, and Cloud Technologies
-- 🌱 Currently expanding my skills in **AWS Cloud**
-- 🚀 Interested in Front-End Development, Full-Stack Development, and Software Engineering opportunities
-- 📫 Reach me at: **vodeegalla2001@gmail.com**
+```yaml
+name:       Venura Oshada Deegalla
+role:       Full-Stack Developer
+location:   Netherlands 🇳🇱
+education:
+  - BSc Software Engineering · University of Plymouth
+  - MSc Applied ICT (Business Management) · Wittenborg University
+focus:      Frontend · Full-Stack · Mobile · Cloud
+currently:  Expanding into AWS Cloud Architecture
+contact:    vodeegalla2001@gmail.com
+```
 
 ---
 
-## 🛠️ Tech Stack
+## `> cat tech-stack.json`
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E8E3FF?style=flat-square&logo=html5&logoColor=7F77DD)
+![CSS3](https://img.shields.io/badge/CSS3-E8E3FF?style=flat-square&logo=css3&logoColor=7F77DD)
+![JavaScript](https://img.shields.io/badge/JavaScript-E8E3FF?style=flat-square&logo=javascript&logoColor=7F77DD)
+![React](https://img.shields.io/badge/React-E8E3FF?style=flat-square&logo=react&logoColor=7F77DD)
+![Vue.js](https://img.shields.io/badge/Vue.js-E8E3FF?style=flat-square&logo=vue.js&logoColor=7F77DD)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-E8E3FF?style=flat-square&logo=tailwindcss&logoColor=7F77DD)
+![Figma](https://img.shields.io/badge/Figma-E8E3FF?style=flat-square&logo=figma&logoColor=7F77DD)
 
 ### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,graphql" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-E1F5EE?style=flat-square&logo=node.js&logoColor=1D9E75)
+![Express](https://img.shields.io/badge/Express-E1F5EE?style=flat-square&logo=express&logoColor=1D9E75)
+![GraphQL](https://img.shields.io/badge/GraphQL-E1F5EE?style=flat-square&logo=graphql&logoColor=1D9E75)
+![PHP](https://img.shields.io/badge/PHP-E1F5EE?style=flat-square&logo=php&logoColor=1D9E75)
 
 ### Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+![React Native](https://img.shields.io/badge/React_Native-E8E3FF?style=flat-square&logo=react&logoColor=7F77DD)
 
 ### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-E1F5EE?style=flat-square&logo=mysql&logoColor=1D9E75)
 
-### Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,postman" />
-</p>
+### Cloud & Tooling
+![AWS](https://img.shields.io/badge/AWS-FFF4E0?style=flat-square&logo=amazonaws&logoColor=BA7517)
+![GCP](https://img.shields.io/badge/GCP-FFF4E0?style=flat-square&logo=googlecloud&logoColor=BA7517)
+![Docker](https://img.shields.io/badge/Docker-FFF4E0?style=flat-square&logo=docker&logoColor=BA7517)
+![Git](https://img.shields.io/badge/Git-FFF4E0?style=flat-square&logo=git&logoColor=BA7517)
+![GitHub](https://img.shields.io/badge/GitHub-FFF4E0?style=flat-square&logo=github&logoColor=BA7517)
+![Postman](https://img.shields.io/badge/Postman-FFF4E0?style=flat-square&logo=postman&logoColor=BA7517)
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,java,cs" />
-</p>
-
----
-
-## 📜 Certifications
-
-- IBM – Hands-on Introduction to Linux Commands and Shell Scripting
-- Meta – React Native
-- University of Moratuwa – Python for Beginners
-- Currently preparing for AWS Cloud Practitioner
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F5F5F3?style=flat-square&logo=javascript&logoColor=5F5E5A)
+![Python](https://img.shields.io/badge/Python-F5F5F3?style=flat-square&logo=python&logoColor=5F5E5A)
+![Java](https://img.shields.io/badge/Java-F5F5F3?style=flat-square&logo=openjdk&logoColor=5F5E5A)
+![C#](https://img.shields.io/badge/C%23-F5F5F3?style=flat-square&logo=csharp&logoColor=5F5E5A)
 
 ---
 
-## 🤝 Connect With Me
+## `> ls ~/stats`
 
-<p>
-<a href="https://linkedin.com/in/venura-deegalla">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venura-deegalla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7F77DD&icon_color=1D9E75&text_color=AAAAAA&ring_color=7F77DD)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venura-deegalla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7F77DD&text_color=AAAAAA)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=venura-deegalla&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7F77DD&fire=1D9E75&currStreakLabel=7F77DD)
+
+</div>
 
 ---
 
-<p align="center">
-Always learning, building, and looking for opportunities to create impactful software.
-</p>
+## `> cat certifications.log`
+
+```
+[✓] IBM        ──  Hands-on Introduction to Linux Commands and Shell Scripting
+[✓] Meta       ──  React Native
+[✓] UoM        ──  Python for Beginners
+[→] AWS        ──  Cloud Practitioner  ············  IN PROGRESS
+```
+
+---
+
+## `> ./connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-venura--deegalla-7F77DD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venura-deegalla)
+[![Email](https://img.shields.io/badge/Email-vodeegalla2001@gmail.com-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vodeegalla2001@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// ALWAYS LEARNING · BUILDING · SEEKING IMPACT //
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=venura-deegalla&style=flat-square&color=7F77DD&label=VISITORS)
+
+</div>
